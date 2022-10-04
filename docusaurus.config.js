@@ -57,46 +57,40 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Docs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/oobj-logo.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            label: 'iniciante',
+            docId: 'iniciante/iniciante',
             position: 'left',
-            label: 'Tutorial',
-          }],
+          }
+        ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Institucional',
             items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
             ],
           },
           {
-            title: 'Contatos',
+            title: 'Redes Sociais',
             items: [
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/waltenne',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/waltenne',
-              }
             ],
-          }
+          },
+          {
+            title: 'Mais',
+            items: [
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Guia DevOps Brasil, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Oobj Docs, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -105,4 +99,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = config
