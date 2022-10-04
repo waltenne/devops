@@ -1,11 +1,5 @@
 ## 📚 GUIA DEVOPS - INICIANTE
 
-📚 ÍNDICE
-
-[📚 Informática Básica](#-informatica-basica) </br>
-[📚 Linux](#-Linux) </br>
-[📚 Canais Youtube](#-canais-youtube) </br>
-
 ## 📚 Informática Básica
 
 🔖 [Playlist Informática Básica - Prime Cursos do Brasil](https://www.youtube.com/watch?v=JdSTF0iYYhI&list=PLFKhhNd35zq8TY5Ux_bxSZDLAasXGCu0v) </br>
