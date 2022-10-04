@@ -18,9 +18,6 @@ O repositório servirá para compartilhamento de conteúdo Gratuito.
 ÍNDICE
 
 [Iniciante](iniciante/iniciante.md) 
-[Intermediario](intermediario/intermediario.md) 
-[Avançado](avancado/avancado.md) 
-[Dicas](dicas/dicas.md) 
 
 ## Canais do youtube com conteúdo gratuito
 
