@@ -1,27 +1,27 @@
-## 📚 GUIA DEVOPS - BRASIL
+## GUIA DEVOPS - BRASIL
 
-⚠️ ATENÇÃO ⚠️
+ ATENÇÃO
 
-🌟 O repositório servirá para compartilhamento de conteúdo Gratuito.
+O repositório servirá para compartilhamento de conteúdo Gratuito.
 
 ![Visitantes](https://page-views.glitch.me/badge?page_id=waltenne.guiadevopsbrasil)
 
 📞 Contato 📞 
-👨🏻‍💻 GitHub: https://github.com/waltenne/ 👨🏻‍💻 
-👨🏻‍💻 Linkedin: https://www.linkedin.com/in/waltenne/ 👨🏻‍💻 
+ GitHub: https://github.com/waltenne/  
+ Linkedin: https://www.linkedin.com/in/waltenne/  
 
-⚠️ Outros Reposítórios ⚠️
+ Outros Reposítórios 
 
 [Universidade Livre Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao)  
 [Guia Dev Brasil](https://github.com/arthurspk/guiadevbrasil) 
 
-📚 ÍNDICE
+ÍNDICE
 
-[📚 Iniciante](iniciante/iniciante.md) 
-[📚 Intermediario](intermediario/intermediario.md) 
-[📚 Avançado](avancado/avancado.md) 
-[📚 Dicas](dicas/dicas.md) 
+[Iniciante](iniciante/iniciante.md) 
+[Intermediario](intermediario/intermediario.md) 
+[Avançado](avancado/avancado.md) 
+[Dicas](dicas/dicas.md) 
 
-## 📚 Canais do youtube com conteúdo gratuito
+## Canais do youtube com conteúdo gratuito
 
-[📚 Canais Youtube](canais/canais.md) 
+[Canais Youtube](canais/canais.md) 
