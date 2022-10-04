@@ -17,8 +17,4 @@ O repositório servirá para compartilhamento de conteúdo Gratuito.
 
 ÍNDICE
 
-[Iniciante](iniciante/iniciante.md) 
-
-## Canais do youtube com conteúdo gratuito
-
-[Canais Youtube](canais/canais.md) 
+[Iniciante](iniciante/iniciante.md)
