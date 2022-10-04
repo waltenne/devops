@@ -9,7 +9,7 @@ const config = {
   title: 'Guia Devops Brasil',
   tagline: '',
   url: 'https://guiadevopsbrasil.vercel.app',
-  baseUrl: '/docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
