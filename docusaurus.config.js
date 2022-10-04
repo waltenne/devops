@@ -68,14 +68,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+          }],
       },
       footer: {
         style: 'dark',
@@ -90,37 +83,20 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Contatos',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                href: 'https://twitter.com/waltenne',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+                href: 'https://github.com/waltenne',
+              }
             ],
-          },
+          }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Guia DevOps Brasil, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
