@@ -6,7 +6,7 @@ O repositório servirá para compartilhamento de conteúdo Gratuito.
 
 ![Visitantes](https://page-views.glitch.me/badge?page_id=waltenne.guiadevopsbrasil)
 
-📞 Contato 📞 
+ Contato
  GitHub: https://github.com/waltenne/  
  Linkedin: https://www.linkedin.com/in/waltenne/  
 
