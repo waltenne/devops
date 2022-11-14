@@ -57,7 +57,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'inicio',
+            docId: 'home',
             position: 'left',
             label: 'Começe Aqui',
           },
@@ -72,15 +72,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Inicio',
-            items: [
-              {
-                label: 'Começe Aqui',
-                to: '/docs/inicio',
-              },
-            ],
-          },
           {
             title: 'Comunidade',
             items: [
