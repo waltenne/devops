@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Comunicação',
+    Svg: require('@site/static/img/comunicacao.svg').default,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      <>A comunicação de DevOps deve criar meios e processos para garantir as demandas e necessidades das relações das equipe Dev e Operação.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Colaboração',
+    Svg: require('@site/static/img/colaboracao.svg').default,
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      <>Colaborar é se comprometer com a possibilidade de produzir um resultado maior do que aquele que seria desenvolvido isoladamente.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Automação',
+    Svg: require('@site/static/img/automacao.svg').default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      <>Criação de processos para que diversas atividades rotineiras que demandam muito tempo, possam ser realizadas automaticamente, muito mais rápido. 
+      </>
+    ),
+  },
+  {
+    title: 'Monitoração',
+    Svg: require('@site/static/img/monitoracao.svg').default,
+    description: (
+      <>Uso de ferramentas para se obter metricas com isso é possível gerar insights sobre os processos e estabelecer melhorias.
       </>
     ),
   },
@@ -37,7 +39,7 @@ const FeatureList = [
 
 function Feature({Svg, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--3')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
